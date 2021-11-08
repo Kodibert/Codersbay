@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">quit</string>
+    <string name="button1">connect</string>
+    <string name="button2">start</string>
+    <string name="startup">DartScoreBoard</string>
+
+
+</resources>
